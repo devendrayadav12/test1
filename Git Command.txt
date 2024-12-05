@@ -1,0 +1,6 @@
+1. git init - To initialize directory
+2. git status - to check status
+3. git add . - to add untrack files to git
+4. git commit -m "some message" - to commit files to git
+5. git diff - show differences
+6. git commit -am "file updated" - to add and commit changes at a time
